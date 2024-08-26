@@ -1,30 +1,35 @@
 
-# Project Title
-
-Choosing painting in your house
-
-## Summary
-When painting your house indoor, you can choose between many colours. Which colour will suite your apartment/house, based on other colours in your house (like funiture)? An tool can be built by accessing your camera on your mobile device. Filters of colours can be shown, so that you can get an idea of how it will look like in your house, before painting. Recommendations will be given to you based on what colours that go together, or what colours that are most trendy tight now, or what colours that you should avoid.
+# pAInt
 
 This is a "building AI course project"
+
+## Summary
+When painting your house indoor, you can choose between many different colors. But what color should you choose? Which color will suite your apartment/house, based on other colors in your house, like your funiture and the color of the floor? An AI tool can be built by accessing your camera on your mobile device. You will be able to choose between "filters" , with universal color codes, so that you can get an idea of how various colors will look like in your house, before painting. Recommendations will be given to you based on what colors that go together, or what colors that are most trendy right now, or what kind of "mood" you want to achieve.
+
 
 
 ## Background
 
-We spend most of our time in our home. Your home is a place to relax, gather friends and family, study, work, sleep, eat, etc. Living in a home, where you feel at home, will probably enhance your life quality. One of the things you can do in ypur home, is to paint it. But what colour should you chosse? When painting a house or an apartment indoor, it is often difficult to imagine how the colour will look like in your house in real life. You might want to refresh your house, perhaps before selling it. You want to be confident that the colours will look great in your apartment, based on other colours in your hpuse, like funiture, or other paintings. Perhaps you would like to paint rooms in different colours. Perhaps ypu want to achieve a specific feeling or feautre, like "bright", "cosy", "relaxing", "energizing" og what is trendy right now. 
+We spend most of our time in our home. Our home is a place to relax, and gather friends and family. Living in a home, where you feel at home, where you can feel relaxed and energized, will perhaps enhance your life quality.  One of the things you can do to create a cosy, personal home is to paint it.  But what colour should you chosse? When painting a house or an apartment indoor, it is often difficult to imagine how the colour will look like in your house in real life. You might want to refresh your house, perhaps before selling it, to increase the value. You want to be confident that the colours will look great in your apartment, based on other colours in your hpuse, like funiture, or other paintings, or the colour of the floor and ceiling, Perhaps you would like to paint rooms in different colours. Perhaps you want to achieve a specific "mood", like "bright", "cosy", "relaxing", "energizing", or perhaps you would like to choose what is trendy right now, in your local area, or perhaps in another country. 
 
 *What colour should you choose for your home?
 *How will different colours look like in your home?
 *What colours go together?
 *What colours do not go together?
 *What colours are trendy right now?
-*What "effect" do you want to acchieve?
+*What colors are trendy in a specific country, or correlates with a specific style you want to achieve?
+*What "effect" or "mood" do you want to acchieve?
+*What painting label should you choose, based on availability, price, recommendations, allergy and asthma-friendly products, environmentaly friendly products, etc?
 
-
+ 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Choosing the the right colour and label on the painting will potentially reduce the impact on the environment. It will decrease negative impact on your health by suggesting available environmentally and health-friendly products. By enabling you to see how a color will look like, it will help you to choose the rigth color and label from start, so that you don't have to paint over again. By filtering products based on price, it will help you to save money, or perhaps increase the life span, because you chose the painting of a greater quality. If you plan to sell your house, you will be more aware of what colors that most peaople like, so that it will increase your chances of resail, and perhaps also increase the price of your house.
+
+The users may be both individuals, as well as companies that are planning to paint their offices/locations. Having "fresh" colors may increase the wellbeing of the coworkers or customers, or even investors.
+
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bone_black_acrylic_paint.jpg/640px-Bone_black_acrylic_paint.jpg
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
